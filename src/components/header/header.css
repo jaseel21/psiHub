@@ -1,0 +1,10 @@
+.nav-content{
+    position: fixed;
+    right: 20px;
+}
+.nav-text{
+    color: rgb(255, 255, 255);
+}
+.navbar{
+background-color: #1E90FF;
+}

@@ -1,0 +1,32 @@
+.contact-form{
+padding-top: 1rem;
+
+}
+.submit-btnn{
+color: white;
+background:#db7093;
+border: none;
+border-radius: 5px;
+
+height: 50px;
+
+
+}
+.form-head{
+    display:flex;
+  justify-content:center;
+  font-size: 2rem;
+    font-weight: 800;
+    padding-bottom: 0.3rem;
+    font-size: 48px;
+    font-weight: 800;
+    background: -webkit-linear-gradient(45deg, #3c413c, #829F82 80%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+ 
+}
+.contact{
+    display:flex;
+  justify-content:center;
+
+}

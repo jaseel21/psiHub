@@ -1,0 +1,56 @@
+.banner{
+    background-size: cover;
+    color: black;
+   
+}
+.content{
+   justify-content: center;
+    padding: 1rem;
+    float: left;
+    padding-top: 3rem;
+   
+
+}
+.title{
+    font-size: 3rem;
+    font-weight: 800;
+    padding-bottom: 0.3rem;
+    
+    background: -webkit-linear-gradient(45deg,  #004e92,#4682B4 80%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+   
+}
+.description{
+   
+    line-height: 1.3;
+    padding-top: 1rem;
+    font-size: 1rem;
+    height: 80px;
+    max-width: 360px;
+    color: #183047dc;
+}
+.b-button{
+    color: white;
+    outline: none;
+    border: none;
+    width: 200px;
+    font-weight: 700;
+    border-radius: 19px;
+    padding-top: 0.5rem;
+    padding-left: 2rem;
+    padding-bottom: .5rem; 
+     margin-right: 1rem;
+    text-align: center;
+    background-color: #0abd46;
+    /* background: -webkit-linear-gradient(45deg, #078503, #0abd46 80%); */
+}
+
+
+.image{
+height: auto;
+width: auto;
+float: left;
+
+
+}
