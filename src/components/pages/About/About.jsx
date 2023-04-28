@@ -1,11 +1,13 @@
 import React from 'react'
-import Header from '../../header/header'
-import Footer from '../../Footer/Footer'
+import AboutBanner from '../../AboutBanner/AboutBanner'
+import AboutUs from '../../AboutUs/AboutUs'
+import VideoBar from '../../videoBar/videoBar'
 function About() {
   return (
     <div>
-        <Header/>
-        <Footer/>
+      <AboutBanner/>
+      <AboutUs/>
+      <VideoBar/>
     </div>
   )
 }

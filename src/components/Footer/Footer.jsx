@@ -12,7 +12,7 @@ function Footer() {
     <div>
         <div class="pt-5">
 
-    <MDBFooter className='text-center text-white' style={{ backgroundColor: '#f1f1f1' }}>
+    <MDBFooter className='text-center text-white' style={{ backgroundColor: "white" }}>
       <MDBContainer className=''>
         <section className=''>
           
@@ -77,7 +77,7 @@ function Footer() {
         </section>
       </MDBContainer>
 
-      <div className='text-center text-dark p-3' style={{ backgroundColor: 'rgba(0, 0, 0, 0.2)' }}>
+      <div className='text-center text-dark p-3' style={{ backgroundColor: 'white' }}>
         © 2023 Copyright
       
       </div>

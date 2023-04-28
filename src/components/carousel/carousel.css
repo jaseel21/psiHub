@@ -5,17 +5,16 @@
 }
 .content{
    justify-content: center;
-    padding: 1rem;
+    padding: 0.5rem;
     float: left;
     padding-top: 3rem;
    
 
 }
 .title{
-    font-size: 3rem;
+    float: left;
+    font-size: 2.5rem;
     font-weight: 800;
-    padding-bottom: 0.3rem;
-    
     background: -webkit-linear-gradient(45deg,  #004e92,#4682B4 80%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -27,23 +26,24 @@
     padding-top: 1rem;
     font-size: 1rem;
     height: 80px;
-    max-width: 360px;
-    color: #183047dc;
+    color: gray;
+    float: left;
 }
 .b-button{
+    float: left;
     color: white;
     outline: none;
     border: none;
     width: 200px;
     font-weight: 700;
-    border-radius: 19px;
+    border-radius:  13px;
     padding-top: 0.5rem;
     padding-left: 2rem;
     padding-bottom: .5rem; 
      margin-right: 1rem;
     text-align: center;
     background-color: #0abd46;
-    /* background: -webkit-linear-gradient(45deg, #078503, #0abd46 80%); */
+    /* background: -webkit-linear-gradient(45deg, #3f9b0b, #0abd46 80%); */
 }
 
 
@@ -53,4 +53,8 @@ width: auto;
 float: left;
 
 
+}
+.banner-contant{
+    vertical-align: middle;
+    justify-content: center;
 }

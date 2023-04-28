@@ -1,0 +1,36 @@
+
+.form-list{
+background-color: white;
+padding-top: 15rem;
+
+}
+.contact-us{
+float: left;
+padding-top: 1.2rem;
+background-color: #3a4762;
+height: 300px;
+padding-top: 5rem;
+}
+.contact-head{
+    color: white;
+    font-weight: 800;   
+    font-size: 3rem;
+    text-align: center;
+}
+.contact-des{
+    color: white;
+    text-align: center;
+}
+.email-icon{
+    float: left;
+    color: white;
+
+}
+.email{
+    color: white;
+}
+.form-title{
+    font-weight: 800;
+    text-align: center;
+    padding-top: 6rem;
+}

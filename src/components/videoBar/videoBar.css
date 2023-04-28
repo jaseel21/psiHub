@@ -1,0 +1,19 @@
+.notice-title{
+    color: white;
+    font-weight: 700;
+}
+.notice-des{
+    color: white;
+}
+.notice-view{
+    background-color: green;
+    float: left;
+    height: 300px;
+    padding-top: 4rem;
+    
+}
+.video-view{
+    float: left;
+ 
+   
+}

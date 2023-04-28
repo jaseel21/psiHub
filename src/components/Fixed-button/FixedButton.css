@@ -1,0 +1,27 @@
+.whatsapp-btn{
+color: green;
+border-radius: 10px;
+border: none;
+padding: 0.7rem;
+padding: 1rem;
+background-color: rgba(194, 180, 180, 0.575);
+
+
+}
+.call-btn{
+
+color: blue;
+border-radius: 10px;
+border: none;
+padding: 1rem;
+background-color: rgba(194, 180, 180, 0.575);
+
+}
+.buttons{
+    padding-right: 1rem;
+    padding-block-end: 2rem;
+}
+.call-div{
+    padding-top: 2rem;
+    
+}

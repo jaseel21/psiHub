@@ -1,0 +1,28 @@
+.aboutUs-feild{
+    background-color:  #660033;
+}
+.mission-feild{
+    /* background-color: tomato; */
+    background: linear-gradient(to right, #660033 0%, tomato 100%);
+
+    padding-top: 1rem;
+}
+.aboutUs-text{
+    color: white;
+    font-weight: 800;
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    padding-top: 1rem;
+    
+    
+}
+.mission-title{
+    color: white;
+    font-weight: 800;
+}
+.mission-des{
+    color: white;
+}
+.vision{
+    padding-bottom: 1rem;
+}

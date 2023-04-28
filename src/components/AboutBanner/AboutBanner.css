@@ -2,8 +2,24 @@
 
 }
 .f-part{
-    background-color: cyan;
+    background-color: #7D3C98;
+    float: left;
+    color: white;
+    
 }
 .s-part{
-    background-color: greenyellow;
+   
+}
+.backgroundImg{
+    height: auto;
+    width: 100%;
+    
+} 
+.a-title{
+font-size: 3rem;
+font-weight: 800;
+color: whitesmoke;
+}
+.a-description{
+
 }
