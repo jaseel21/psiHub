@@ -6,15 +6,25 @@
     color: rgb(255, 255, 255);
 }
 .navbar{
-background-color: #6a5acd;
+background-color: #695acd;
+
 }
 .nav-text{
     color:white;
     padding-left: 2rem;
-    padding-top: 0.7rem;
+    padding: 1rem;
+   font-size: 14px;
     text-decoration: none;
 }
 .nav-text:hover {
     color: white;
+    
+}
+.logo{
+    font-weight: 500;
+}
+
+Nav{
+    font-family: 'Rajdhani', sans-serif;
     
 }

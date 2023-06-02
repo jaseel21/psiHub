@@ -12,7 +12,7 @@ function carousel() {
           <div className="banner">
 
             <div className='col-xs-12 col-sm-6 col-md-6  content '>
-              <div className='banner-contant'>
+              <div className='banner-contant '>
 
                 <h1  className="title">Title feild is currently empty</h1>
                 <h1 className="description">in the meny parts of he worls womrn stil considered india is one of the country there there still have a system</h1>
@@ -26,7 +26,7 @@ function carousel() {
 
             <div  className=''>
 
-              <img className="col-12 col-sm-12 col-md-6" src="https://www.seekpng.com/png/detail/388-3885633_delivering-transparency-to-web-hosting-since-men-with.png" alt="is Empty" />
+              <img className="col-12 col-sm-12 col-md-6" src="https://cdni.iconscout.com/illustration/premium/thumb/man-working-on-the-laptop-as-freelancer-2407294-2012361.png" alt="is Empty" />
             </div>
 
           </div>
